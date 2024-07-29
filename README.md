@@ -1,4 +1,4 @@
-![react](https://github.com/user-attachments/assets/aebbadc2-472c-47e3-9c6b-e97b3e8e2737)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **wooooooooook/wooooooooook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
