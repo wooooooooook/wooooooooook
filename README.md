@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋
+
+![react](https://github.com/user-attachments/assets/aebbadc2-472c-47e3-9c6b-e97b3e8e2737)
 
 <!--
 **wooooooooook/wooooooooook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
